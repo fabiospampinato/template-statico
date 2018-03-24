@@ -5,7 +5,7 @@ const widget = {
 
   button: ( label, onclick ) => {
 
-    return `<button onclick="${onclick}">${label}</button>`;
+    return `<button onclick="${onclick}()">${label}</button>`;
 
   }
 

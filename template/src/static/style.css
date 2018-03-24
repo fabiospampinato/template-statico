@@ -1,4 +1,9 @@
 
 body {
-  background-color: #F9F9F9;
+  box-sizing: border-box;
+  height: 100vh;
+  margin: 0;
+  padding: 20px;
+  background-image: linear-gradient( to bottom, #ffffff 10%, #afafaf 100% );
+  background-repeat: repeat-x;
 }
