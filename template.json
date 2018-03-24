@@ -1,0 +1,4 @@
+{
+  "filter": ["**/*", "!*.html"],
+  "variablesOrder": ["author"]
+}

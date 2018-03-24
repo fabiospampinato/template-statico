@@ -1,0 +1,18 @@
+{
+  "autorun": true,
+  "terminals": [
+    {
+      "name": "Statico",
+      "command": "statico clean && statico build && statico watch"
+    },
+    {
+      "name": "Server",
+      "command": "statico serve"
+    },
+    {
+      "name": "Deploy",
+      "command": "statico deploy",
+      "execute": false
+    }
+  ]
+}
