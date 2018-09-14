@@ -7,7 +7,7 @@ A template for starting a new [Statico](https://github.com/fabiospampinato/stati
 Install the template locally with:
 
 ```
-$ template install fabiospampinato/template-statico statico
+template install fabiospampinato/template-statico statico
 ```
 
 ## Usage
@@ -15,7 +15,7 @@ $ template install fabiospampinato/template-statico statico
 Create a new [Statico](https://github.com/fabiospampinato/statico)-powered website with:
 
 ```
-$ template create statico my-statico-website
+template create statico my-statico-website
 ```
 
 ## License
