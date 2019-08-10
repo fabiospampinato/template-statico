@@ -4,6 +4,8 @@ A template for starting a new [Statico](https://github.com/fabiospampinato/stati
 
 ## Install
 
+Install the [`template`](https://github.com/fabiospampinato/template) CLI tool in your system.
+
 Install the template locally with:
 
 ```sh
